@@ -1,0 +1,14 @@
+.container {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  text-align: center;
+}
+
+.panel {
+  margin-top: 30px;
+  text-align: left;
+}
+
+#delete {
+  float: right;
+  margin-top: -5px;
+}
